@@ -1,0 +1,14 @@
+.navbar {
+    margin: 0 !important;
+    border-radius: 0 !important;
+}
+
+.login, .register {
+    margin-top: 5% !important;
+}
+
+p, a.forgot {
+    margin-top: 3%;
+    margin-bottom: 0;
+    float: right;
+}
